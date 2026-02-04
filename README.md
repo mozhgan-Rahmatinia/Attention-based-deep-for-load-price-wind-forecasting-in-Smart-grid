@@ -127,4 +127,23 @@ The proposed model consistently outperforms baseline methods, especially for **s
 ├── utils.py
 ├── requirements.txt
 └── README.md
+```
+## 📌 Citation
 
+If you use this work, please cite:
+@inproceedings{rahmatinia2025attention,
+  title={An Attention-Based Deep Learning Model for Multi-Horizon Prediction of Load, Price, and Wind Power Generation in Smart Grids},
+  author={Rahmatinia, Mozhgan and Hosseini-Seno, Seyed-Amin},
+  booktitle={2025 29th International Electrical Power Distribution Conference (EPDC)},
+  year={2025},
+  doi={10.1109/EPDC67173.2025.11278281}
+}
+
+
+## 📬 Contact
+
+Mozhgan Rahmatinia
+
+📧 Email: mozhgan.rahmatinia@mail.um.ac.ir
+
+🔗 GitHub: https://github.com/mozhgan-Rahmatinia
